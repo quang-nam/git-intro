@@ -1,6 +1,6 @@
-rusty
-blue
-scout 
+rusty2
+blue2
+scout 2
 mocha
 layla
 frog
