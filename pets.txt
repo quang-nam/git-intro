@@ -4,9 +4,3 @@ scout3
 mocha3
 layla
 frog
-paper
-geoge
-git
-git 
-git
-quang
