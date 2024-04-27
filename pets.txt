@@ -1,7 +1,7 @@
-rusty
-blue
-scout 
-mocha
+rusty3
+blue3
+scout3 
+mocha3
 layla
 frog
 paper
